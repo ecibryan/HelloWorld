@@ -12,7 +12,6 @@ import kotlin.concurrent.schedule
 
 class MainActivity : AppCompatActivity() {
 
-  
   val mLog = "mlog"
   var counter = 0
   
